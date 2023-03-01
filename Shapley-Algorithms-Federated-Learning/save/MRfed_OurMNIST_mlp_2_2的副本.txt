@@ -1,0 +1,300 @@
+Data contributor: 1
+Shapley value: 0.73
+
+Data contributor: 2
+Shapley value: 0.7070895419175345
+
+Data contributor: 3
+Shapley value: 0.7065248994653968
+
+Data contributor: 4
+Shapley value: 0.74
+
+Data contributor: 5
+Shapley value: 0.7010117018751709
+
+Data contributor: 6
+Shapley value: 0.7093459011729953
+
+Data contributor: 7
+Shapley value: 0.7162813294018545
+
+Data contributor: 8
+Shapley value: 0.75
+
+Data contributor: 9
+Shapley value: 0.76
+
+Data contributor: 10
+Shapley value: 0.77
+
+Data contributor: 11
+Shapley value: 0.5
+
+Data contributor: 12
+Shapley value: 0.5
+
+Data contributor: 13
+Shapley value: 0.5
+
+Data contributor: 14
+Shapley value: 0.5
+
+Data contributor: 15
+Shapley value: 0.5
+
+Data contributor: 16
+Shapley value: 0.5
+
+Data contributor: 17
+Shapley value: 0.5
+
+Data contributor: 18
+Shapley value: 0.5
+
+Data contributor: 19
+Shapley value: 0.5
+
+Data contributor: 20
+Shapley value: 0.5
+
+Data contributor: 21
+Shapley value: 0.5
+
+Data contributor: 22
+Shapley value: 0.5
+
+Data contributor: 23
+Shapley value: 0.5
+
+Data contributor: 24
+Shapley value: 0.5
+
+Data contributor: 25
+Shapley value: 0.5
+
+Data contributor: 26
+Shapley value: 0.5
+
+Data contributor: 27
+Shapley value: 0.5
+
+Data contributor: 28
+Shapley value: 0.5
+
+Data contributor: 29
+Shapley value: 0.5
+
+Data contributor: 30
+Shapley value: 0.5
+
+Data contributor: 31
+Shapley value: 0.5
+
+Data contributor: 32
+Shapley value: 0.5
+
+Data contributor: 33
+Shapley value: 0.5
+
+Data contributor: 34
+Shapley value: 0.5
+
+Data contributor: 35
+Shapley value: 0.5
+
+Data contributor: 36
+Shapley value: 0.5
+
+Data contributor: 37
+Shapley value: 0.5
+
+Data contributor: 38
+Shapley value: 0.5
+
+Data contributor: 39
+Shapley value: 0.5
+
+Data contributor: 40
+Shapley value: 0.5
+
+Data contributor: 41
+Shapley value: 0.5
+
+Data contributor: 42
+Shapley value: 0.5
+
+Data contributor: 43
+Shapley value: 0.5
+
+Data contributor: 44
+Shapley value: 0.5
+
+Data contributor: 45
+Shapley value: 0.5
+
+Data contributor: 46
+Shapley value: 0.5
+
+Data contributor: 47
+Shapley value: 0.5
+
+Data contributor: 48
+Shapley value: 0.5
+
+Data contributor: 49
+Shapley value: 0.5
+
+Data contributor: 50
+Shapley value: 0.5
+
+Data contributor: 51
+Shapley value: 0.5
+
+Data contributor: 52
+Shapley value: 0.5
+
+Data contributor: 53
+Shapley value: 0.5
+
+Data contributor: 54
+Shapley value: 0.5
+
+Data contributor: 55
+Shapley value: 0.5
+
+Data contributor: 56
+Shapley value: 0.5
+
+Data contributor: 57
+Shapley value: 0.5
+
+Data contributor: 58
+Shapley value: 0.5
+
+Data contributor: 59
+Shapley value: 0.5
+
+Data contributor: 60
+Shapley value: 0.5
+
+Data contributor: 61
+Shapley value: 0.5
+
+Data contributor: 62
+Shapley value: 0.5
+
+Data contributor: 63
+Shapley value: 0.5
+
+Data contributor: 64
+Shapley value: 0.5
+
+Data contributor: 65
+Shapley value: 0.5
+
+Data contributor: 66
+Shapley value: 0.5
+
+Data contributor: 67
+Shapley value: 0.5
+
+Data contributor: 68
+Shapley value: 0.5
+
+Data contributor: 69
+Shapley value: 0.5
+
+Data contributor: 70
+Shapley value: 0.5
+
+Data contributor: 71
+Shapley value: 0.5
+
+Data contributor: 72
+Shapley value: 0.5
+
+Data contributor: 73
+Shapley value: 0.5
+
+Data contributor: 74
+Shapley value: 0.5
+
+Data contributor: 75
+Shapley value: 0.5
+
+Data contributor: 76
+Shapley value: 0.5
+
+Data contributor: 77
+Shapley value: 0.5
+
+Data contributor: 78
+Shapley value: 0.5
+
+Data contributor: 79
+Shapley value: 0.5
+
+Data contributor: 80
+Shapley value: 0.5
+
+Data contributor: 81
+Shapley value: 0.5
+
+Data contributor: 82
+Shapley value: 0.5
+
+Data contributor: 83
+Shapley value: 0.5
+
+Data contributor: 84
+Shapley value: 0.5
+
+Data contributor: 85
+Shapley value: 0.5
+
+Data contributor: 86
+Shapley value: 0.5
+
+Data contributor: 87
+Shapley value: 0.5
+
+Data contributor: 88
+Shapley value: 0.5
+
+Data contributor: 89
+Shapley value: 0.5
+
+Data contributor: 90
+Shapley value: 0.5
+
+Data contributor: 91
+Shapley value: 0.5
+
+Data contributor: 92
+Shapley value: 0.5
+
+Data contributor: 93
+Shapley value: 0.5
+
+Data contributor: 94
+Shapley value: 0.5
+
+Data contributor: 95
+Shapley value: 0.5
+
+Data contributor: 96
+Shapley value: 0.5
+
+Data contributor: 97
+Shapley value: 0.5
+
+Data contributor: 98
+Shapley value: 0.5
+
+Data contributor: 99
+Shapley value: 0.5
+
+Data contributor: 100
+Shapley value: 0.5
+

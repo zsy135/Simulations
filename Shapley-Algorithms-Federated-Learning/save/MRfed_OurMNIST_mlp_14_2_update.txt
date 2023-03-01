@@ -1,0 +1,60 @@
+Data contributor: 1
+Loss value: 1
+Select times: 15.0
+q_j: 0.5984148612651793
+history_q: 0.06666666666666667
+
+Data contributor: 2
+Loss value: 1
+Select times: 15.0
+q_j: 0.5984148612651793
+history_q: 0.06666666666666667
+
+Data contributor: 3
+Loss value: 1
+Select times: 15.0
+q_j: 0.5984148612651793
+history_q: 0.06666666666666667
+
+Data contributor: 4
+Loss value: 1
+Select times: 13.0
+q_j: 0.6769177969040164
+history_q: 0.10256410256410256
+
+Data contributor: 5
+Loss value: 1
+Select times: 10.0
+q_j: 0.8434534336546576
+history_q: 0.18024691358024691
+
+Data contributor: 6
+Loss value: 1
+Select times: 8.0
+q_j: 0.9910315716687615
+history_q: 0.23902606310013716
+
+Data contributor: 7
+Loss value: 1
+Select times: 5.0
+q_j: 1
+history_q: 0.39479754102525016
+
+Data contributor: 8
+Loss value: 1
+Select times: 2.0
+q_j: 1
+history_q: 0.5
+
+Data contributor: 9
+Loss value: 1.0
+Select times: 1.0
+q_j: 1
+history_q: 1.0
+
+Data contributor: 10
+Loss value: 1.0
+Select times: 1.0
+q_j: 1
+history_q: 1.0
+

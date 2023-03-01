@@ -1,0 +1,112 @@
+Trainset: 1_
+Accuracy: 0
+
+Trainset: 1_1
+Accuracy: 0.0911
+
+Trainset: 1_2
+Accuracy: 0.0911
+
+Trainset: 1_3
+Accuracy: 0.0911
+
+Trainset: 1_4
+Accuracy: 0.0911
+
+Trainset: 1_5
+Accuracy: 0.0911
+
+Trainset: 1_12
+Accuracy: 0.0911
+
+Trainset: 1_13
+Accuracy: 0.0911
+
+Trainset: 1_14
+Accuracy: 0.0911
+
+Trainset: 1_15
+Accuracy: 0.0911
+
+Trainset: 1_23
+Accuracy: 0.0911
+
+Trainset: 1_24
+Accuracy: 0.0911
+
+Trainset: 1_25
+Accuracy: 0.0911
+
+Trainset: 1_34
+Accuracy: 0.0911
+
+Trainset: 1_35
+Accuracy: 0.0911
+
+Trainset: 1_45
+Accuracy: 0.0911
+
+Trainset: 1_123
+Accuracy: 0.0911
+
+Trainset: 1_124
+Accuracy: 0.0911
+
+Trainset: 1_125
+Accuracy: 0.0911
+
+Trainset: 1_134
+Accuracy: 0.0911
+
+Trainset: 1_135
+Accuracy: 0.0911
+
+Trainset: 1_145
+Accuracy: 0.0911
+
+Trainset: 1_234
+Accuracy: 0.0911
+
+Trainset: 1_235
+Accuracy: 0.0911
+
+Trainset: 1_245
+Accuracy: 0.0911
+
+Trainset: 1_345
+Accuracy: 0.0911
+
+Trainset: 1_1234
+Accuracy: 0.0911
+
+Trainset: 1_1235
+Accuracy: 0.0911
+
+Trainset: 1_1245
+Accuracy: 0.0911
+
+Trainset: 1_1345
+Accuracy: 0.0911
+
+Trainset: 1_2345
+Accuracy: 0.0911
+
+Trainset: 1_12345
+Accuracy: 0.6642
+
+Data contributor: 1
+Shapley value: [0.15526, 0.14718000000000003, 0.1331, 0.13262000000000002, 0.13228, 0.13236000000000003, 0.13246000000000002, 0.13284, 0.13258000000000003, 0.13284]
+
+Data contributor: 2
+Shapley value: [0.15526, 0.14718000000000003, 0.1331, 0.13262000000000002, 0.13228, 0.13236000000000003, 0.13246000000000002, 0.13284, 0.13258000000000003, 0.13284]
+
+Data contributor: 3
+Shapley value: [0.15526, 0.14718000000000003, 0.1331, 0.13262000000000002, 0.13228, 0.13236000000000003, 0.13246000000000002, 0.13284, 0.13258000000000003, 0.13284]
+
+Data contributor: 4
+Shapley value: [0.15526, 0.14718000000000003, 0.1331, 0.13262000000000002, 0.13228, 0.13236000000000003, 0.13246000000000002, 0.13284, 0.13258000000000003, 0.13284]
+
+Data contributor: 5
+Shapley value: [0.15526, 0.14718000000000003, 0.1331, 0.13262000000000002, 0.13228, 0.13236000000000003, 0.13246000000000002, 0.13284, 0.13258000000000003, 0.13284]
+
+Total Run Time: 708.1717

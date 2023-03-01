@@ -1,0 +1,43 @@
+Node1 Start (Is Good: True)---------------
+Start Training: 
+Model Version:  0  Epoth:  0  Loss:  0.09033446609973908
+Model Version:  0  Epoth:  1  Loss:  0.0886502668261528
+
+**** Model Acc: 0.16339999437332153 
+
+Start Training: 
+Model Version:  1  Epoth:  0  Loss:  0.08899901807308197
+Model Version:  1  Epoth:  1  Loss:  0.08734401315450668
+
+**** Model Acc: 0.1889999955892563 
+
+Start Training: 
+Model Version:  3  Epoth:  0  Loss:  0.08738703578710556
+Model Version:  3  Epoth:  1  Loss:  0.08579592853784561
+
+**** Model Acc: 0.20239999890327454 
+
+Start Training: 
+Model Version:  5  Epoth:  0  Loss:  0.0858647882938385
+Model Version:  5  Epoth:  1  Loss:  0.08424768447875977
+
+**** Model Acc: 0.2231999933719635 
+
+Start Training: 
+Model Version:  7  Epoth:  0  Loss:  0.08451130390167236
+Model Version:  7  Epoth:  1  Loss:  0.08284998685121536
+
+**** Model Acc: 0.25 
+
+Start Training: 
+Model Version:  9  Epoth:  0  Loss:  0.08291240334510804
+Model Version:  9  Epoth:  1  Loss:  0.08118430078029633
+
+**** Model Acc: 0.2896000146865845 
+
+Start Training: 
+Model Version:  10  Epoth:  0  Loss:  0.08148306757211685
+Model Version:  10  Epoth:  1  Loss:  0.07971427589654922
+
+**** Model Acc: 0.31839999556541443 
+

@@ -1,0 +1,112 @@
+Trainset: 1_
+Accuracy: 0
+
+Trainset: 1_1
+Accuracy: 0.9476
+
+Trainset: 1_2
+Accuracy: 0.9491
+
+Trainset: 1_3
+Accuracy: 0.9481
+
+Trainset: 1_4
+Accuracy: 0.9466
+
+Trainset: 1_5
+Accuracy: 0.95
+
+Trainset: 1_12
+Accuracy: 0.9498
+
+Trainset: 1_13
+Accuracy: 0.9493
+
+Trainset: 1_14
+Accuracy: 0.9493
+
+Trainset: 1_15
+Accuracy: 0.9492
+
+Trainset: 1_23
+Accuracy: 0.9509
+
+Trainset: 1_24
+Accuracy: 0.9502
+
+Trainset: 1_25
+Accuracy: 0.9517
+
+Trainset: 1_34
+Accuracy: 0.9502
+
+Trainset: 1_35
+Accuracy: 0.9511
+
+Trainset: 1_45
+Accuracy: 0.9511
+
+Trainset: 1_123
+Accuracy: 0.9508
+
+Trainset: 1_124
+Accuracy: 0.95
+
+Trainset: 1_125
+Accuracy: 0.9509
+
+Trainset: 1_134
+Accuracy: 0.9513
+
+Trainset: 1_135
+Accuracy: 0.9519
+
+Trainset: 1_145
+Accuracy: 0.9504
+
+Trainset: 1_234
+Accuracy: 0.9517
+
+Trainset: 1_235
+Accuracy: 0.9517
+
+Trainset: 1_245
+Accuracy: 0.9507
+
+Trainset: 1_345
+Accuracy: 0.952
+
+Trainset: 1_1234
+Accuracy: 0.9508
+
+Trainset: 1_1235
+Accuracy: 0.9512
+
+Trainset: 1_1245
+Accuracy: 0.9511
+
+Trainset: 1_1345
+Accuracy: 0.9509
+
+Trainset: 1_2345
+Accuracy: 0.951
+
+Trainset: 1_12345
+Accuracy: 0.9509
+
+Data contributor: 1
+Shapley value: [0.18193166666666666, 0.184775, 0.18752333333333338, 0.18742499999999992, 0.18958833333333336]
+
+Data contributor: 2
+Shapley value: [0.18593166666666666, 0.18698333333333328, 0.188865, 0.19045833333333334, 0.19044666666666668]
+
+Data contributor: 3
+Shapley value: [0.18309, 0.18665, 0.18768999999999997, 0.18903333333333333, 0.19035500000000005]
+
+Data contributor: 4
+Shapley value: [0.18323999999999996, 0.18594166666666667, 0.18897333333333335, 0.18914999999999998, 0.18962166666666666]
+
+Data contributor: 5
+Shapley value: [0.18500666666666668, 0.18675000000000003, 0.18804833333333332, 0.18983333333333333, 0.19088833333333327]
+
+Total Run Time: 461.9974
